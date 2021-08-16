@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "pyenv\\Scripts\\python.exe",
+    "jupyter.jupyterServerType": "local",
+    "python.formatting.provider": "black"
+}
